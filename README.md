@@ -1,6 +1,7 @@
 <div align="center">
 
-**Testing this amazing project for my resume**
+[See Resume 1](./PDF/resume_edu.pdf)
+[See Resume 2](./PDF/resume_ind.pdf)
 
 # The WebLatex
 
